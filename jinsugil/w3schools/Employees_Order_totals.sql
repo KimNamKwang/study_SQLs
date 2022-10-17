@@ -2,4 +2,6 @@
 
 SELECT COUNT(OrderID) 
 FROM Orders
-WHERE EmployeeID IN(7,9);
+WHERE EmployeeID IN(SELECT EmployeeID
+					FROM Employees
+                    WHERE EmployeeID IN(7,9));
