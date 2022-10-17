@@ -7,3 +7,4 @@
 - [where_are_not jinsugil](./jinsugil/w3schools/where_and_not.sql)
 ### Employees_Order_totals
 - [Employees_Order_totals jinsugil](./jinsugil/w3schools/Employees_Order_totals.sql)
+- [Employees_Order_totals namkwangkim](./KimNamKwang/w3schools/Employees_Order_totals.sql)
