@@ -8,3 +8,6 @@
 ### Employees_Order_totals
 - [Employees_Order_totals jinsugil](./jinsugil/w3schools/Employees_Order_totals.sql)
 - [Employees_Order_totals namkwangkim](./KimNamKwang/w3schools/Employees_Order_totals.sql)
+### Categories_Products_totals
+- [Categories_Products_totals.sql](./jinsugil/w3schools/Categories_Products_totals.sql)
+
