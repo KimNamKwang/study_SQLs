@@ -13,5 +13,6 @@
 - [Categories_Products_totals namkwangkim](./KimNamKwang/w3schools/Categories_Products_totals.sql)
 ### CategoryName_Products
 - [CategoryName_Products jinsugil](./jinsugil/w3schools/CategoryName_Products.sql)
+- [CategoryName_Products namkwangkim](./KimNamKwang/w3schools/CategoryName_Products.sql)
 ### CategoryName_Products_Order
 - [CategoryName_Products_Order jinsugil](./jinsugil/w3schools/CategoryName_Products_Order.sql)
