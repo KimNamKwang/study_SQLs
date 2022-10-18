@@ -11,4 +11,4 @@ WHERE OrderID IN(SELECT OrderID
 										                FROM Categories
                     					                WHERE CategoryName IN('Dairy Products','Seafood'))));
                                         
--- OrderID 10248 COUNT 482
+-- OrderID COUNT 379
