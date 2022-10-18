@@ -11,4 +11,18 @@ IN(SELECT OrderID
 					      AND CategoryID IN (SELECT CategoryID
 										      FROM Categories
                     					     WHERE CategoryName IN('Dairy Products','Seafood'))));
+--답 : OrderID 리스트
+
+
+SELECT COUNT(OrderID)
+FROM Orders
+WHERE OrderID 
+IN(SELECT OrderID
+	FROM OrderDetails
+	WHERE ProductID IN (SELECT ProductID
+	                     FROM Products
+	                      WHERE Price BETWEEN 10 AND 50 
+					      AND CategoryID IN (SELECT CategoryID
+										      FROM Categories
+                    					     WHERE CategoryName IN('Dairy Products','Seafood'))));                                            
 -- 답 : 갯수 379개.      
