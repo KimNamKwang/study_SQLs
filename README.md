@@ -20,3 +20,5 @@
 ### Categories_Products_Count
 - [Categories_Products_Count jinsugil](./jinsugil/w3schools/Categories_Products_Count.sql)
 - [Categories_Products_Count nammkwangkim](./KimNamKwang/w3schools/Categories_Products_Count.sql)
+### Products_HAVING
+- [Products_HAVING jinsugil](./jinsugil/w3schools/Products_HAVING.sql)
