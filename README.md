@@ -25,3 +25,5 @@
 ### Products_CategoryID
 - [Products_CategoryID jinsugil](./jinsugil/w3schools/Products_CategoryID.sql)
 - [Products_CategoryID namkwangkim](./KimNamKwang/w3schools/Products_CategoryID.sql)
+### Products_Quantity
+- [Products_Quantity namkwangkim](./KimNamKwang/w3schools/Products_Quantity.sql)
