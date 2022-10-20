@@ -30,3 +30,4 @@
 - [Products_Quantity jinsugil](./jinsugil/w3schools/Products_Quantity.sql)
 ### Users_Auth_names
 - [Users_Auth_names jinsugil](./jinsugil/w3schools/Users_Auth_names.sql)
+- [Users_Auth_name namkwangkim](./KimNamKwang/w3schools/Users_Auth_Names.sql)
